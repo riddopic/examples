@@ -9,7 +9,7 @@
     "@pulumi/aws": "latest",
     "@pulumi/awsx": "latest",
     "@pulumi/newrelic": "latest",
-    "@pulumi/pulumi": "latest",
+    "@pulumi/pulumi": "3.73.0",
     "ip-address": "^5.9.2",
     "jsbn": "^1.1.0",
     "mime": "^2.4.4"
