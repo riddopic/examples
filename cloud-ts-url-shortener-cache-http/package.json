@@ -14,7 +14,7 @@
         "@types/mime-types": "^2.1.0"
     },
     "dependencies": {
-        "@pulumi/pulumi": "latest",
+        "@pulumi/pulumi": "3.73.0",
         "@pulumi/azure": "latest",
         "@pulumi/azure-serverless": "latest",
         "@pulumi/cloud": "latest",
