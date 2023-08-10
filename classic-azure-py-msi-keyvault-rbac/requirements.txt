@@ -1,3 +1,4 @@
 pulumi>=3.5.1,<4.0.0
 pulumi-azure>=4.7.0,<5.0.0
 pulumi-random>=4.2.0,<5.0.0
+grpcio>=1.56.2 # not directly required, pinned by Snyk to avoid a vulnerability
