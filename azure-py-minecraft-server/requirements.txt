@@ -1,3 +1,4 @@
 pulumi>=3.5.1,<4.0.0
 pulumi-azure-native>=1.14.0,<2.0.0
 pulumi-command>=0.0.3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
